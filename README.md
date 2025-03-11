@@ -1,2 +1,8 @@
-# portfolio
-shraykomal.github.io/portfolio
+# Data Scientist and Bioinformatics
+
+### Education
+
+### Work Experience
+
+### Projects
+

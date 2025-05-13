@@ -33,7 +33,7 @@ Currently, I’m seeking **data scientist** or **machine learning engineer** rol
 - Reduced reporting time by 65% through standardized e-commerce data pipelines
 
 ### 🔹 **Hilcorp Energy – Data Analyst Co-op** (Nov 2022 – Oct 2024)
-- Designed SQL models & Power BI dashboards to improve multi-department reporting by 15%
+- Designed SQL models & Power BI dashboards to improve multi-department reporting by 27%
 - Automated Python pipelines for oil production data analytics
 
 ### 🔹 **Simulation Engineering Lab – Data Science Intern** (Jul 2023 – Sep 2023)

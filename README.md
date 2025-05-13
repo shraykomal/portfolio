@@ -56,9 +56,9 @@ Currently, I’m seeking **data scientist** or **machine learning engineer** rol
 ### 📦 Customer Churn Prediction App
 - Trained Random Forest on synthetic churn dataset
 - Deployed interactive Streamlit app for real-time prediction
-- View it live: [Launch App]https://aa38-35-245-75-112.ngrok-free.app/)
+- View it live: [Launch App](https://aa38-35-245-75-112.ngrok-free.app/)
 
-### 🧬 [Kidney CT Cancer Classifier](https://github.com/shraykomal/kidney-cancer-cnn)
+### 🧬 [Kidney CT Cancer Classifier](https://github.com/shraykomal/--projects/blob/main/convolutional_neural_network.ipynb) 
 - Used TensorFlow for binary classification of CT images
 - Built augmentation and preprocessing pipeline for training on Kaggle dataset
 

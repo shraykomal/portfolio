@@ -7,7 +7,7 @@
 
 ## 🔍 About Me
 
-I’m a data scientist with a strong background in **bioinformatics, Machine learning, and Data engineering**. I thrive at the intersection of business and science—building **ML models**, **data pipelines**, and **dashboards** that drive real-world impact.
+I’m a data scientist with a strong background in **bioinformatics, machine learning, and data engineering**. I thrive at the intersection of business and science—building **ML models**, **data pipelines**, and **dashboards** that drive real-world impact.
 
 Currently, I’m seeking **data scientist** or **machine learning engineer** roles where I can apply NLP, deep learning, and analytical storytelling to solve critical problems in healthcare, energy, or tech.
 

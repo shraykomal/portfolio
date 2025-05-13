@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shray Komal
 
-🎓 **Computational Health Informatics M.S. Student @ University of Houston** (Graduating May 2025)  
+🎓 **Computational Health Informatics M.S. Student @ University of Houston** (Graduated May 2025)  
 🧬 **Biotechnology – Bioinformatics B.S.**, Cum Laude (Graduated May 2024)
 
 ---

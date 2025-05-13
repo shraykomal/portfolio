@@ -1,0 +1,25 @@
+# 🏗️ Inventory Demand Forecasting App
+
+## 🧩 Business Context
+
+Construction and manufacturing companies often struggle with **stockouts** or **overstocking** of materials like bricks, tiles, or drywall. This leads to **project delays, wasted budget, and poor vendor coordination**. Forecasting future demand helps procurement and supply chain teams **order the right materials at the right time**, improving project efficiency and cost control.
+
+---
+
+## 🎯 Project Goal
+
+Build a **machine learning or statistical forecasting model** to predict the next **30–90 days** of demand for construction materials (e.g., bricks, tiles, cabinets) based on historical usage data.  
+Deploy the model as an **interactive dashboard or app** that lets users:
+
+- ✅ Select a material (e.g., "Red Brick Type A")  
+- 📈 View historical usage  
+- 🔮 See future predictions  
+- 📁 Download the forecast as a CSV file
+
+---
+
+## 💡 Business Value
+
+- 🚫 Prevents material shortages and costly delays  
+- 📊 Supports data-driven procurement decisions  
+- 💵 Helps finance teams plan budgets based on predicted usage

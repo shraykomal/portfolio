@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shray Komal
 
-🎓 **Computational Health Informatics M.S. Student @ University of Houston**, Magna Cum Laude (Graduating May 2025)  
-🧬 **Biotechnology – Bioinformatics B.S.**, Cum Laude (Graduated May 2024)
+🎓 **Computational Health Informatics M.S. Student @ University of Houston**, 3.83 GPA,  Magna Cum Laude (Graduating May 2025)  
+🧬 **Biotechnology – Bioinformatics B.S.**, 3.42 GPA,  Cum Laude (Graduated May 2024)
 
 ---
 
@@ -28,16 +28,16 @@ Currently, I’m seeking **data scientist** or **machine learning engineer** rol
 - Automated file sorting and routing processes using **Power Automate** and **SharePoint**, organizing construction-related files into dynamic folder structures based on project type and phase
 - Enhanced cross-departmental collaboration and decision-making by integrating forecasting results into accessible dashboards
 
-### 🔹 **Trident1 – Business Analyst / Data Science Intern** (Oct 2024 – Present)
-- Built BERT-based NLP model on AWS SageMaker to extract key fields from 50+ business docs with 99% accuracy
+### 🔹 **Trident1 – Business Data Science Intern** (Oct 2024 – Present)
+- Built BERT-based Natrual Language Processing model on **AWS SageMaker** to extract key fields from 50+ business docs with 99% accuracy
 - Reduced reporting time by 65% through standardized e-commerce data pipelines
 
 ### 🔹 **Hilcorp Energy – Data Analyst Co-op** (Nov 2022 – Oct 2024)
-- Designed SQL models & Power BI dashboards to improve multi-department reporting by 27%
-- Automated Python pipelines for oil production data analytics
+- Designed **SQL** models & **Power BI** dashboards to improve multi-department reporting by 27%
+- Automated **Python** data pipelines for oil production data analytics and analyzed data using **Pandas**
 
 ### 🔹 **Simulation Engineering Lab – Data Science Intern** (Jul 2023 – Sep 2023)
-- Built CNN for kidney cancer detection with 98.2% accuracy
+- Built **Convolutional Neural Network** for kidney cancer detection with 98.2% accuracy
 - Visualized performance using ROC, F1-score, and interactive Plotly dashboards
 
 ---
@@ -46,7 +46,7 @@ Currently, I’m seeking **data scientist** or **machine learning engineer** rol
 
 ### 🧪 [Breast Cancer ML Classifier (Capstone)]
 - Preprocessed DNA methylation data from TCGA
-- Built ANN in PyTorch to classify cancer stage based on epigenetic markers
+- Built Artifical Neural Network in PyTorch to classify cancer stage based on epigenetic markers
 - Applied autoencoders for dimensionality reduction and feature extraction
 
 ### 📦 [Customer Churn Prediction App](https://github.com/shraykomal/churn-streamlit-app)
@@ -65,7 +65,7 @@ Currently, I’m seeking **data scientist** or **machine learning engineer** rol
 - 📜 Google Data Analytics Professional Certificate  
 - ☁️ AWS Certified AI Practitioner  
 - 💡 Innovation Engineering Blue Belt  
-- 🎓 Dean’s List (4x), Academic Excellence Scholar, Cum Laude
+- 🎓 Dean’s List (4x), Academic Excellence Scholar, Magna Cum Laude
 
 ---
 

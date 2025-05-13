@@ -48,15 +48,15 @@ Currently, I’m seeking **data scientist** or **machine learning engineer** rol
 
 ## 📊 Projects
 
-### 🧪 [Breast Cancer ML Classifier (Capstone)]
-- Preprocessed DNA methylation data from TCGA
+### 🧪 Breast Cancer ML Classifier (Capstone)
+- Preprocessed DNA methylation data from TCGA of breast cancer
 - Built Artifical Neural Network in PyTorch to classify cancer stage based on epigenetic markers
-- Applied autoencoders for dimensionality reduction and feature extraction
+- Applied autoencoders for dimensionality reduction and feature extraction for accurate prediction of early cancer
 
-### 📦 [Customer Churn Prediction App](https://github.com/shraykomal/churn-streamlit-app)
+### 📦 Customer Churn Prediction App
 - Trained Random Forest on synthetic churn dataset
 - Deployed interactive Streamlit app for real-time prediction
-- View it live: [Launch App](https://shraykomal-churn.streamlit.app)
+- View it live: [Launch App]https://aa38-35-245-75-112.ngrok-free.app/)
 
 ### 🧬 [Kidney CT Cancer Classifier](https://github.com/shraykomal/kidney-cancer-cnn)
 - Used TensorFlow for binary classification of CT images

@@ -1,0 +1,26 @@
+## 📘 Project Overview: Customer Churn Prediction App
+
+### 🧩 Business Context
+
+In the subscription-based telecom industry, **retaining customers is more cost-effective than acquiring new ones**. Identifying which customers are likely to churn allows companies to proactively offer incentives, improve service, or address dissatisfaction before they leave.
+
+This project simulates a real-world business case where a telecom provider aims to:
+- Predict customer churn using historical data
+- Visualize and interact with predictions via a lightweight web app
+- Empower marketing and support teams to act on churn insights
+
+---
+
+### 🎯 Goal
+
+Build a **machine learning model** to classify whether a customer is likely to churn based on demographic, service usage, and account information.  
+Deploy the model using **Streamlit** to provide an intuitive web interface for non-technical users.
+
+---
+
+### 💡 Key Business Outcomes
+
+- Enables **proactive retention strategies** (e.g., loyalty offers for high-risk users)
+- Helps **segment customers** based on churn probability and service behavior
+- Improves visibility for business teams through a clean **interactive dashboard**
+- Demonstrates how machine learning supports **customer lifetime value (CLV)** optimization

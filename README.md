@@ -40,6 +40,10 @@ Currently, I’m seeking **data scientist** or **machine learning engineer** rol
 - Built **Convolutional Neural Network** for kidney cancer detection with 98.2% accuracy
 - Visualized performance using ROC, F1-score, and interactive Plotly dashboards
 
+### 🔹 **S&M Advertising – Marketing Data Science Intern** (Sept 2020 – Mar 2021)
+- Built a **K-Nearest Neighbors (KNN)** clustering model using `scikit-learn` to segment customers from demographic data gathered through email campaigns; tuned hyperparameters (e.g., `k`, distance metric) to optimize cluster cohesion and interpretability  
+- Translated clustering insights into tailored Facebook Ads campaigns, resulting in a **63% revenue increase** and a **21% drop in cart abandonment** by effectively targeting high-value customer segments
+
 ---
 
 ## 📊 Projects
